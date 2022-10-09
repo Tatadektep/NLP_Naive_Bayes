@@ -19,7 +19,7 @@ In this lab, you'll implement a new modeling technique called Naive Bayes on tex
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lab |  NLP & Naive Bayes Jupyter Notebook | [Link](./NLP Naive Bayes.ipynb)|
-| Lab |  NLP & Naive Bayes Jupyter Notebook | [Link](./starter-code.ipynb)|
+| Lab |  NLP & Naive Bayes Jupyter Blank Notebook | [Link](./starter-code.ipynb)|
 | Data | Personality Dataset | [Link](./mypersonality_final.csv)|
 | Academic Paper | Workshop on Computational Personality Recognition: Shared Task | [Link](./celli-al_wcpr13.pdf)|
 
